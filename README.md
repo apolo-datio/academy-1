@@ -16,4 +16,4 @@
 
 ## Lenguajes de programación
 - [Python](https://github.com/DatioBD/academy/blob/master/python.md)
-- [R](#r)
+- [R](https://github.com/DatioBD/academy/blob/master/r.md)
