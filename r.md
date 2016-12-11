@@ -1,1 +1,26 @@
-#r
+<h1 align="center">
+	<img src="https://www.r-project.org/Rlogo.png" alt="r">
+	<br>
+</h1>
+## Contenido
+
+## Blogs
+- [R-bloggers](https://www.r-bloggers.com)
+- [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.html)
+- [R Introduction](http://www.r-tutor.com/r-introduction)
+- [Data structures in R](http://adv-r.had.co.nz/Data-structures.html)
+- [R: A self-learn tutorial](https://www.nceas.ucsb.edu/files/scicomp/Dloads/RProgramming/BestFirstRTutorial.pdf)
+- [Try R](http://tryr.codeschool.com)
+- [Learn R, in R](http://swirlstats.com)
+
+## Libros
+- [Python Practice Book: free ebook to learn practical programming with Python](http://anandology.com/python-practice-book/index.html)
+- [Learning Python 5th Edition (updated for 3.3 and 2.7)](https://drive.google.com/file/d/0B2Y-n6IlHYliSXZxMk0xT0NSY1E/preview)
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
+
+- [Python Cookbook: free ebook for advanced programmers](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
+
+## MOOC
+- [R Programming](https://www.coursera.org/learn/r-programming)
+- [The R Programming Environment](https://www.coursera.org/learn/r-programming-environment)
+- [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
