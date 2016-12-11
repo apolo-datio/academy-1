@@ -15,5 +15,5 @@
 ## Machine Learning
 
 ## Lenguajes de programación
-- [Python](#python)
+- [Python](https://github.com/DatioBD/academy/blob/master/python.md)
 - [R](#r)
