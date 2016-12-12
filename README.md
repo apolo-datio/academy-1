@@ -1,16 +1,14 @@
 # Plan Formación Datio
-<h1 align="center">
-	<img src="http://www.datio.com/wp-content/uploads/2016/09/logo-1.png" alt="datio">
-	<br>
-</h1>
 
 ## Contenido
 
-- Plataforma Datio
-- Data Science
-  - [Machine Learning](#machinelearning)
-  - [Lenguajes de programación](#lenguajesprogramacion)
-
+- Infraestructura
+- Herramientas
+- Tecnología
+  - Data Science
+    - [Machine Learning](#machinelearning)
+    - [Lenguajes de programación](#lenguajesprogramacion)
+- Metodología 
     
 ## Machine Learning
 
