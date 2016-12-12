@@ -13,7 +13,6 @@
 
 ## MOOC
 - [Functional Program Design in Scala](https://www.coursera.org/learn/progfun1)
-- [Scala Tutorials](http://docs.scala-lang.org/tutorials/)
 - [Scala Exercises](https://www.scala-exercises.org/std_lib/asserts)
 - [Functional Programming](https://www.scala-exercises.org/fp_in_scala/getting_started_with_functional_programming)
 
@@ -22,3 +21,7 @@
 - [typelevel](http://typelevel.org/blog)
 
 ## Documentación
+- [Scala Tutorials](http://docs.scala-lang.org/tutorials/)
+- [Functional Programming in Scala](https://www.amazon.es/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653)
+- [Programming in Scala](https://www.amazon.com/Programming-Scala-Updated-2-12/dp/0981531687/ref=sr_1_1?s=books&ie=UTF8&qid=1481551513&sr=1-1)
+- [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
