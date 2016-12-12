@@ -3,10 +3,10 @@
 	<br>
 </h1>
 ## Contenido
-* [IDEs](##ides)
-* [Blogs](##blogs)
-* [Documentacin](##documentacion)
-* [MOOC](##mooc)
+* [IDEs](#ides)
+* [Blogs](#blogs)
+* [Documentacin](#documentacion)
+* [MOOC](#mooc)
 
 ## IDEs
 - [PyCharm](https://www.jetbrains.com/pycharm/)
