@@ -2,13 +2,13 @@
 
 ## Contenido
 
-- Infraestructura
-- Herramientas
-- Tecnología
-  - Data Science
-    - [Machine Learning](#machinelearning)
-    - [Lenguajes de programación](#lenguajesprogramacion)
-- Metodología 
+* Infraestructura
+* Herramientas
+* Tecnología
+  * Data Science
+    * [Machine Learning](#machine-learning)
+    * [Lenguajes de programación](#lenguajes-programacion)
+* Metodología 
 
 ## Tecnología    
 ### Machine Learning
