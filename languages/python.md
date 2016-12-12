@@ -16,16 +16,18 @@
 
 ## MOOC
 - [Learn to Program and Analyze Data with Python](https://www.coursera.org/specializations/python)
-- [Tutorial de Python (y Django!) en Español](http://tutorial.python.org.ar/)
 - [Introduction to python](https://www.codecademy.com/learn/python)
-- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Checkio](https://py.checkio.org/)
 - [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
+- [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9)
+- [Learn to Program Using Python](https://www.edx.org/course/learn-program-using-python-utarlingtonx-cse1309x)
 
 ## Blogs
 - [Python Weekly](http://www.pythonweekly.com)
 
 ## Documentación 
+- [Tutorial de Python (y Django!) en Español](http://tutorial.python.org.ar/)
+- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Python Practice Book: free ebook to learn practical programming with Python](http://anandology.com/python-practice-book/index.html)
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 - [Python Cookbook: free ebook for advanced programmers](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
