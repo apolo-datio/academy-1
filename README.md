@@ -3,7 +3,11 @@
 ## Contenido
 
 * Infraestructura
+  * PaaS
 * Herramientas
+  * Intelligence
+  * Sandbox
+  * Crossdata
 * Tecnología
   * Data Science
     * [Machine Learning](#machine-learning)
