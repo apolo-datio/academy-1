@@ -26,5 +26,5 @@
 - [Try R](http://tryr.codeschool.com)
 - [Learn R, in R](http://swirlstats.com)
 
-## Libros
+## Documentación
 
