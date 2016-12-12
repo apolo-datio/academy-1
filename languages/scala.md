@@ -9,7 +9,7 @@
 * [Documentación](#documentacion): Libros y material complementario a la formación
 
 ## IDEs
-- [IntelliJ](https://www.jetbrains.com/idea/)
+- [IntelliJ](https://www.jetbrains.com/idea/) :star:
 
 ## MOOC
 - [Functional Program Design in Scala](https://www.coursera.org/learn/progfun1)
