@@ -15,10 +15,10 @@
 - [PyDev](http://www.pydev.org/)
 
 ## MOOC
-- [Introduction to python](https://www.codecademy.com/learn/python)
-- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Learn to Program and Analyze Data with Python](https://www.coursera.org/specializations/python)
 - [Tutorial de Python (y Django!) en Español](http://tutorial.python.org.ar/)
+- [Introduction to python](https://www.codecademy.com/learn/python)
+- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Checkio](https://py.checkio.org/)
 - [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
 
