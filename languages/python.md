@@ -3,6 +3,11 @@
 	<br>
 </h1>
 ## Contenido
+* [IDEs](##ides)
+* [Blogs](##blogs)
+* [Documentacin](##documentacion)
+* [MOOC](##mooc)
+
 ## IDEs
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [Anaconda](http://damnwidget.github.io/anaconda/)
@@ -12,7 +17,7 @@
 ## Blogs
 - [Python Weekly](http://www.pythonweekly.com)
 
-## Libros
+## Documentación 
 - [Python Practice Book: free ebook to learn practical programming with Python](http://anandology.com/python-practice-book/index.html)
 - [Learning Python 5th Edition (updated for 3.3 and 2.7)](https://drive.google.com/file/d/0B2Y-n6IlHYliSXZxMk0xT0NSY1E/preview)
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
