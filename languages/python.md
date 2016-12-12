@@ -9,7 +9,7 @@
 * [Documentación](#documentacion): Libros y material complementario a la formación
 
 ## IDEs
-- [PyCharm](https://www.jetbrains.com/pycharm/)
+- [PyCharm](https://www.jetbrains.com/pycharm/) :star:
 - [Anaconda](http://damnwidget.github.io/anaconda/)
 - [Spyder](https://github.com/spyder-ide/spyder)
 - [PyDev](http://www.pydev.org/)
