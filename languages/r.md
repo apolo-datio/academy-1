@@ -16,11 +16,11 @@
 - [R Programming](https://www.coursera.org/learn/r-programming)
 - [The R Programming Environment](https://www.coursera.org/learn/r-programming-environment)
 - [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
+- [Try R](http://tryr.codeschool.com)
+- [Learn R, in R](http://swirlstats.com)
 
 ## Blogs
 - [R-bloggers](https://www.r-bloggers.com)
-- [Try R](http://tryr.codeschool.com)
-- [Learn R, in R](http://swirlstats.com)
 
 ## Documentación
 - [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.html)
