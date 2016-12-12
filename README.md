@@ -17,5 +17,5 @@
 ## Tecnología    
 ### Machine Learning
 ### Lenguajes de programación
-- [Python](https://github.com/DatioBD/academy/blob/master/python.md)
-- [R](https://github.com/DatioBD/academy/blob/master/r.md)
+- [Python](https://github.com/DatioBD/academy/blob/master/languages/python.md)
+- [R](https://github.com/DatioBD/academy/blob/master/languages/r.md)
