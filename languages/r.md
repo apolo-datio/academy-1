@@ -9,7 +9,7 @@
 * [Documentación](#documentacion): Libros y material complementario a la formación
 
 ## IDEs
-- [RStudio](https://www.rstudio.com/)
+- [RStudio](https://www.rstudio.com/) :fire:
 - [StatET](http://www.walware.de/goto/statet)
 
 ## MOOC
