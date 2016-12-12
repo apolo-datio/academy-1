@@ -3,6 +3,19 @@
 	<br>
 </h1>
 ## Contenido
+* [IDEs](#ides): Entornos de desarrollo recomendados
+* [MOOC](#mooc): Tutoriales/cursos online recomendados
+* [Blogs](#blogs): Websites/blogs con artículos relevantes
+* [Documentación](#documentacion): Libros y material complementario a la formación
+
+## IDEs
+- [RStudio](https://www.rstudio.com/)
+- [StatET](http://www.walware.de/goto/statet)
+
+## MOOC
+- [R Programming](https://www.coursera.org/learn/r-programming)
+- [The R Programming Environment](https://www.coursera.org/learn/r-programming-environment)
+- [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
 
 ## Blogs
 - [R-bloggers](https://www.r-bloggers.com)
@@ -15,7 +28,3 @@
 
 ## Libros
 
-## MOOC
-- [R Programming](https://www.coursera.org/learn/r-programming)
-- [The R Programming Environment](https://www.coursera.org/learn/r-programming-environment)
-- [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
