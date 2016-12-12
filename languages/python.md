@@ -4,7 +4,11 @@
 </h1>
 ## Contenido
 ## IDEs
-- 
+- [PyCharm](https://www.jetbrains.com/pycharm/)
+- [Anaconda](http://damnwidget.github.io/anaconda/)
+- [Spyder](https://github.com/spyder-ide/spyder)
+- [PyDev](http://www.pydev.org/)
+
 ## Blogs
 - [Python Weekly](http://www.pythonweekly.com)
 
@@ -15,7 +19,9 @@
 - [Python Cookbook: free ebook for advanced programmers](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
 
 ## MOOC
-- [Curso 1](https://checkio.org/)
-- [Curso 2](https://www.coursera.org/specializations/python)
-- [Curso 3](https://www.coursera.org/specializations/data-science-python)
-- [Curso 4](http://tutorial.python.org.ar/)
+- [Introduction to python](https://www.codecademy.com/learn/python)
+- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+- [Learn to Program and Analyze Data with Python](https://www.coursera.org/specializations/python)
+- [Tutorial de Python (y Django!) en Español](http://tutorial.python.org.ar/)
+- [Checkio](https://py.checkio.org/)
+- [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
