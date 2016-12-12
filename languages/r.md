@@ -19,12 +19,11 @@
 
 ## Blogs
 - [R-bloggers](https://www.r-bloggers.com)
-- [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.html)
-- [R Introduction](http://www.r-tutor.com/r-introduction)
-- [Data structures in R](http://adv-r.had.co.nz/Data-structures.html)
-- [R: A self-learn tutorial](https://www.nceas.ucsb.edu/files/scicomp/Dloads/RProgramming/BestFirstRTutorial.pdf)
 - [Try R](http://tryr.codeschool.com)
 - [Learn R, in R](http://swirlstats.com)
 
 ## Documentación
-
+- [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.html)
+- [R Introduction](http://www.r-tutor.com/r-introduction)
+- [R: A self-learn tutorial](https://www.nceas.ucsb.edu/files/scicomp/Dloads/RProgramming/BestFirstRTutorial.pdf)
+- [Data structures in R](http://adv-r.had.co.nz/Data-structures.html)
