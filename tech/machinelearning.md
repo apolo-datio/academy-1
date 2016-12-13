@@ -1,5 +1,6 @@
 # Machine Learning
 <h1 align="center">
+<b>Machine Learning</b><br>
 	<img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/ml/large-icon.png" alt="r">
 	<br>
 </h1>
