@@ -30,4 +30,5 @@
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Python Practice Book: free ebook to learn practical programming with Python](http://anandology.com/python-practice-book/index.html)
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
+- [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
 - [Python Cookbook: free ebook for advanced programmers](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
