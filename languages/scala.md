@@ -10,11 +10,13 @@
 
 ## IDEs
 - [IntelliJ](https://www.jetbrains.com/idea/) :star:
+- [Eclipse](http://scala-ide.org/)
 
 ## MOOC
 - [Functional Program Design in Scala](https://www.coursera.org/learn/progfun1)
 - [Scala Exercises](https://www.scala-exercises.org/std_lib/asserts)
 - [Functional Programming](https://www.scala-exercises.org/fp_in_scala/getting_started_with_functional_programming)
+- [Introduction to scala](https://bigdatauniversity.com/courses/introduction-to-scala/)
 
 ## Blogs
 - [scalera](https://scalerablog.wordpress.com)
