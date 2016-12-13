@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="http://www.scala-lang.org/resources/img/smooth-spiral.png" alt="r">
+	<img src="https://turreta.com/wp-content/uploads/2016/02/scala-logo-202x175.jpeg" alt="r">
 	<br>
 </h1>
 ## Contenido
