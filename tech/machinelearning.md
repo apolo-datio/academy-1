@@ -4,7 +4,22 @@
 	<br>
 </h1>
 ## Contenido
-* [IDEs](#ides): Entornos de desarrollo recomendados
 * [MOOC](#mooc): Tutoriales/cursos online recomendados
 * [Blogs](#blogs): Websites/blogs con artículos relevantes
 * [Documentación](#documentacion): Libros y material complementario a la formación
+
+## MOOC
+- [Machine Learning, Stanford University](https://www.coursera.org/learn/machine-learning)
+- [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools)
+- [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning)
+- [Statistical Learning](http://online.stanford.edu/course/statistical-learning-self-paced)
+- [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
+
+## Blogs
+- [Data Science Central](http://www.datasciencecentral.com/)
+
+## Documentación
+- [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
+- [Practical Data Science Cookbook](http://shop.oreilly.com/product/9781783980246.do)
+- [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do)
+- [Deep Learning. A Practitioner's Approach](http://shop.oreilly.com/product/0636920035343.do)
