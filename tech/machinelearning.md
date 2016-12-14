@@ -11,6 +11,7 @@
 ## MOOC
 - [Machine Learning, Stanford University](https://www.coursera.org/learn/machine-learning)
 - [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools)
+- [Graph Analytics with GraphX](http://ampcamp.berkeley.edu/big-data-mini-course/graph-analytics-with-graphx.html)
 - [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm)
 - [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning)
 - [Statistical Learning](http://online.stanford.edu/course/statistical-learning-self-paced)
