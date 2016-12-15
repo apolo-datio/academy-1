@@ -14,8 +14,7 @@
   - Principios básicos de la gestión del conocimiento a partir de los datos.
   - Introducción a herramientas del data scientist: version control, markdown,
 	git, github, R y RStudio
-- [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm): Conjunto de cursos ofrecidos por EDX (berkeley) enfocados
-a mostrar el uso de spark como herramienta para el análisis de datos.
+- [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm): Conjunto de cursos ofrecidos por EDX (berkeley) enfocados a mostrar el uso de spark como herramienta para el análisis de datos. :star:
 - [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning): Introducción a los conceptos básicos que hacen falta
 para llevar a cabo la preparación y limpieza de los datos previos al análisis.
 - [Graph Analytics with GraphX](http://ampcamp.berkeley.edu/big-data-mini-course/graph-analytics-with-graphx.html): Breve tutorial de la universidad de berkeley que muestra el uso de GraphX
