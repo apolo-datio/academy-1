@@ -9,7 +9,7 @@
 * [Documentación](#documentacion): Libros y material complementario a la formación
 
 ## MOOC
-- [Machine Learning, Stanford University](https://www.coursera.org/learn/machine-learning)
+- [Machine Learning, Stanford University](https://www.coursera.org/learn/machine-learning): Introducción a machine learning, datamining, and statistical pattern recognition. Impartido por Andrew Ng (universidad de standford). Coursera
 - [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools)
 - [Graph Analytics with GraphX](http://ampcamp.berkeley.edu/big-data-mini-course/graph-analytics-with-graphx.html)
 - [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm)
@@ -27,3 +27,5 @@
 - [Deep Learning. A Practitioner's Approach](http://shop.oreilly.com/product/0636920035343.do)
 - [Machine Learning for Hackers](http://shop.oreilly.com/product/0636920018483.do)
 - [Doing Data Science](http://shop.oreilly.com/product/0636920028529.do)
+- [Machine Learning with Python (free)](https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms/?utm_source=kdnuggets&utm_medium=referral&utm_campaign=freeebook)
+- [Practical Data Analysis (free)](https://www.packtpub.com/packt/free-ebook/practical-data-analysis/?utm_source=kdnuggets&utm_medium=referral&utm_campaign=freeebook)
