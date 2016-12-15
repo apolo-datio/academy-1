@@ -6,7 +6,7 @@
 ## Contenido
 * [MOOC](#mooc): Tutoriales/cursos online recomendados
 * [Blogs](#blogs): Websites/blogs con artículos relevantes
-* [Documentación](#Documentación): Libros y material complementario a la formación
+* [Documentación](#documentacion): Libros y material complementario a la formación
 
 ## MOOC
 - [Machine Learning, Stanford University](https://www.coursera.org/learn/machine-learning): Introducción a machine learning, datamining, and statistical pattern recognition. Impartido por Andrew Ng (universidad de standford). Coursera :star:
@@ -17,8 +17,7 @@
 - [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm): Conjunto de cursos ofrecidos por EDX (berkeley) enfocados a mostrar el uso de spark como herramienta para el análisis de datos. :star:
 - [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning): Introducción a los conceptos básicos que hacen falta
 para llevar a cabo la preparación y limpieza de los datos previos al análisis.
-- [Graph Analytics with GraphX](http://ampcamp.berkeley.edu/big-data-mini-course/graph-analytics-with-graphx.html): Breve tutorial de la universidad de berkeley que muestra el uso de GraphX
-para realizar analíticas sobre los datos usando un modelo basado en grafos.
+- [Graph Analytics with GraphX](http://ampcamp.berkeley.edu/big-data-mini-course/graph-analytics-with-graphx.html): Breve tutorial de la universidad de berkeley que muestra el uso de GraphX para realizar analíticas sobre los datos usando un modelo basado en grafos.
 - [Statistical Learning](http://online.stanford.edu/course/statistical-learning-self-paced): Curso impartido por la universidad de Standford centrado en estadísticas y data science.
 
 ## Blogs
@@ -33,3 +32,4 @@ para realizar analíticas sobre los datos usando un modelo basado en grafos.
 - [Doing Data Science](http://shop.oreilly.com/product/0636920028529.do)
 - [Machine Learning with Python (free)](https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms/?utm_source=kdnuggets&utm_medium=referral&utm_campaign=freeebook)
 - [Practical Data Analysis (free)](https://www.packtpub.com/packt/free-ebook/practical-data-analysis/?utm_source=kdnuggets&utm_medium=referral&utm_campaign=freeebook)
+
