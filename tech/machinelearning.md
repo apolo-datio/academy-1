@@ -9,7 +9,7 @@
 * [Documentación](#documentacion): Libros y material complementario a la formación
 
 ## MOOC
-- [Machine Learning, Stanford University](https://www.coursera.org/learn/machine-learning): Introducción a machine learning, datamining, and statistical pattern recognition. Impartido por Andrew Ng (universidad de standford). Coursera
+- [Machine Learning, Stanford University](https://www.coursera.org/learn/machine-learning): Introducción a machine learning, datamining, and statistical pattern recognition. Impartido por Andrew Ng (universidad de standford). Coursera :star:
 - [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools): Curso de coursera compuesto por dos partes: 
   - Principios básicos de la gestión del conocimiento a partir de los datos.
   - Introducción a herramientas del data scientist: version control, markdown,
