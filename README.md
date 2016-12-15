@@ -11,7 +11,7 @@
 * Tecnología
   - Big Data
     - Procesamiento Batch
-		  - [Apache Spark](#spark)
+      - [Apache Spark](#apache-spark)
   - Data Science
     - [Machine Learning](#machine-learning)
   - [Lenguajes de programación](#lenguajes-programacion)
