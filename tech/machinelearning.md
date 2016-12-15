@@ -10,12 +10,17 @@
 
 ## MOOC
 - [Machine Learning, Stanford University](https://www.coursera.org/learn/machine-learning): Introducción a machine learning, datamining, and statistical pattern recognition. Impartido por Andrew Ng (universidad de standford). Coursera
-- [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools)
-- [Graph Analytics with GraphX](http://ampcamp.berkeley.edu/big-data-mini-course/graph-analytics-with-graphx.html)
-- [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm)
-- [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning)
-- [Statistical Learning](http://online.stanford.edu/course/statistical-learning-self-paced)
-- [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
+- [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools): Curso de coursera compuesto por dos partes: 
+  - Principios básicos de la gestión del conocimiento a partir de los datos.
+  - Introducción a herramientas del data scientist: version control, markdown,
+	git, github, R y RStudio
+- [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm): Conjunto de cursos ofrecidos por EDX (berkeley) enfocados
+a mostrar el uso de spark como herramienta para el análisis de datos.
+- [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning): Introducción a los conceptos básicos que hacen falta
+para llevar a cabo la preparación y limpieza de los datos previos al análisis.
+- [Graph Analytics with GraphX](http://ampcamp.berkeley.edu/big-data-mini-course/graph-analytics-with-graphx.html): Breve tutorial de la universidad de berkeley que muestra el uso de GraphX
+para realizar analíticas sobre los datos usando un modelo basado en grafos.
+- [Statistical Learning](http://online.stanford.edu/course/statistical-learning-self-paced): Curso impartido por la universidad de Standford centrado en estadísticas y data science.
 
 ## Blogs
 - [Data Science Central](http://www.datasciencecentral.com/)
