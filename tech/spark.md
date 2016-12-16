@@ -5,10 +5,11 @@
 ## Contenido
 
 ## MOOC
-- [Curso 1](https://checkio.org/)
-- [Curso 2](https://www.coursera.org/specializations/python)
-- [Curso 3](https://www.coursera.org/specializations/data-science-python)
-- [Curso 4](http://tutorial.python.org.ar/)
+- [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm): Conjunto de cursos ofrecidos por EDX (berkeley) enfocados a mostrar el uso de spark como herramienta para el análisis de datos. :star:
+- [Apache Spark Essentials](http://learn.mapr.com/dev-360-apache-spark-essentials): Curso de mapr centrado en introducir las bases de apache spark
+- [Build and Monitor Apache Spark Applications](http://learn.mapr.com/dev-361-build-and-monitor-apache-spark-applications): Curso de mapr que describe los distintos usos de cargar datos en data frames. También hace referencia al uso de spark web para monitorizar aplicaciones spark.
+- [Create Data Pipelines Using Apache Spark](http://learn.mapr.com/dev-362-create-data-pipelines-using-apache-spark): Curso de mapr donde se introduce como construir un pipeline de datos por medio de spark streaming, spark sql, graphx y mlib. :star:
+- [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/big-data-analysys): Curso de coursera donde muestra como realizar análisis de datos con scala y spark. :star:
 
 ## Blogs
 - [Databricks](https://databricks.com/blog)
