@@ -6,7 +6,7 @@
 * [IDEs](#ides): Entornos de desarrollo recomendados
 * [MOOC](#mooc): Tutoriales/cursos online recomendados
 * [Blogs](#blogs): Websites/blogs con artículos relevantes
-* [Documentación](#documentacion): Libros y material complementario a la formación
+* [Docs](#docs): Libros y material complementario a la formación
 
 ## IDEs
 - [IntelliJ](https://www.jetbrains.com/idea/) :star:
@@ -22,7 +22,7 @@
 - [scalera](https://scalerablog.wordpress.com)
 - [typelevel](http://typelevel.org/blog)
 
-## Documentación
+## Docs
 - [Scala Tutorials](http://docs.scala-lang.org/tutorials/)
 - [Functional Programming in Scala](https://www.amazon.es/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653)
 - [Programming in Scala](https://www.amazon.com/Programming-Scala-Updated-2-12/dp/0981531687/ref=sr_1_1?s=books&ie=UTF8&qid=1481551513&sr=1-1)
