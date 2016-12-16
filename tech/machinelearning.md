@@ -6,7 +6,7 @@
 ## Contenido
 * [MOOC](#mooc): Tutoriales/cursos online recomendados
 * [Blogs](#blogs): Websites/blogs con artículos relevantes
-* [Documentación](#documentacion): Libros y material complementario a la formación
+* [Docs](#docs): Libros y material complementario a la formación
 
 ## MOOC
 - [Machine Learning, Stanford University](https://www.coursera.org/learn/machine-learning): Introducción a machine learning, datamining, and statistical pattern recognition. Impartido por Andrew Ng (universidad de standford). Coursera :star:
@@ -23,7 +23,7 @@ para llevar a cabo la preparación y limpieza de los datos previos al análisis.
 ## Blogs
 - [Data Science Central](http://www.datasciencecentral.com/)
 
-## Documentación
+## Docs
 - [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
 - [Practical Data Science Cookbook](http://shop.oreilly.com/product/9781783980246.do)
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do)
