@@ -6,7 +6,7 @@
 * [IDEs](#ides): Entornos de desarrollo recomendados
 * [MOOC](#mooc): Tutoriales/cursos online recomendados
 * [Blogs](#blogs): Websites/blogs con artículos relevantes
-* [Documentación](#documentacion): Libros y material complementario a la formación
+* [Docs](#docs): Libros y material complementario a la formación
 
 ## IDEs
 - [RStudio](https://www.rstudio.com/) :star:
@@ -22,7 +22,7 @@
 ## Blogs
 - [R-bloggers](https://www.r-bloggers.com)
 
-## Documentación
+## Docs
 - [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.html)
 - [R Introduction](http://www.r-tutor.com/r-introduction)
 - [Hands-On Programming with R](http://shop.oreilly.com/product/0636920028574.do)
