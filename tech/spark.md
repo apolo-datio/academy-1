@@ -3,6 +3,9 @@
 	<br>
 </h1>
 ## Contenido
+* [MOOC](#mooc): Tutoriales/cursos online recomendados
+* [Blogs](#blogs): Websites/blogs con artículos relevantes
+* [Docs](#docs): Libros y material complementario a la formación
 
 ## MOOC
 - [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm): Conjunto de cursos ofrecidos por EDX (berkeley) enfocados a mostrar el uso de spark como herramienta para el análisis de datos. :star:
@@ -18,9 +21,10 @@
 - [Lightbend](https://www.lightbend.com/blog/spark)
 - [Cake Solutions](http://www.cakesolutions.net/teamblogs/topic/spark)
 
-## Documentacin
-- [Python Practice Book: free ebook to learn practical programming with Python](http://anandology.com/python-practice-book/index.html)
-- [Learning Python 5th Edition (updated for 3.3 and 2.7)](https://drive.google.com/file/d/0B2Y-n6IlHYliSXZxMk0xT0NSY1E/preview)
-- [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
-- [Python Cookbook: free ebook for advanced programmers](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
+## Docs
+- [Apache Spark Documentation](http://spark.apache.org/documentation.html)
+- [Learning Spark](http://shop.oreilly.com/product/0636920028512.do)
+- [High Performance Spark](http://shop.oreilly.com/product/0636920046967.do)
+- [Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do)
+- [Using R for Big Data with Spark](http://shop.oreilly.com/product/0636920056621.do)
 
