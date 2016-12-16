@@ -15,12 +15,12 @@
 - [PyDev](http://www.pydev.org/)
 
 ## MOOC
-- [Learn to Program and Analyze Data with Python](https://www.coursera.org/specializations/python)
-- [Introduction to python](https://www.codecademy.com/learn/python)
-- [Checkio](https://py.checkio.org/)
-- [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
-- [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9)
-- [Learn to Program Using Python](https://www.edx.org/course/learn-program-using-python-utarlingtonx-cse1309x)
+- [Learn to Program Using Python](https://www.edx.org/course/learn-program-using-python-utarlingtonx-cse1309x): Curso de edx, centrado en las bases de programacion del lenguaje python.
+- [Learn to Program and Analyze Data with Python](https://www.coursera.org/specializations/python): Curso impartido por la universidad de michigan a través de coursera que se centra en mostrar como desarrollar programas para limpiar, analizar, tratar y visualizar los datos. :star:
+- [Introduction to python](https://www.codecademy.com/learn/python): Introduccion a los conceptos basicos de la programacion en python.
+- [Checkio](https://py.checkio.org/): Curso interactivo de programacion en python, que consiste en avanzar a través de los distintos niveles de un juego, resolviendo algoritmos mediante el lenguaje python.
+- [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python): Serie de 5 cursos de cousera impartidos por la universidad de michigan, donde se abordan métodos de aprendizaje por medio del lenguaje de programacion python. :star:
+- [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9): Curso impartido por el MIT en EDX, centrado en la ciencia de datos por medio de python. :star:
 
 ## Blogs
 - [Python Weekly](http://www.pythonweekly.com)
