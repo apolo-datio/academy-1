@@ -14,6 +14,8 @@
   - Principios básicos de la gestión del conocimiento a partir de los datos.
   - Introducción a herramientas del data scientist: version control, markdown,
 	git, github, R y RStudio
+- [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python): Serie de 5 cursos de cousera impartidos por la universidad de michigan, donde se abordan métodos de aprendizaje por medio del lenguaje de programacion python. :star:
+- [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9): Curso impartido por el MIT en EDX, centrado en la ciencia de datos por medio de python. :star:
 - [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm): Conjunto de cursos ofrecidos por EDX (berkeley) enfocados a mostrar el uso de spark como herramienta para el análisis de datos. :star:
 - [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning): Introducción a los conceptos básicos que hacen falta
 para llevar a cabo la preparación y limpieza de los datos previos al análisis.
