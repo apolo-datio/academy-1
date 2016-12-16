@@ -16,14 +16,14 @@
       - [Apache Spark](#apache-spark)
   - Data Science
     - [Machine Learning](#machine-learning)
-  - [Lenguajes de programacion](#lenguajes-programacion)
+  - [Lenguajes](#lenguajes)
 * Metodología 
 
 ## Tecnología    
 ### [Docker](https://github.com/docker/labs)
 ### [Apache Spark](https://github.com/DatioBD/academy/blob/master/tech/spark.md)
 ### [Machine Learning](https://github.com/DatioBD/academy/blob/master/tech/machinelearning.md)
-### Lenguajes de programacion
+### Lenguajes
 - [Python](https://github.com/DatioBD/academy/blob/master/languages/python.md)
 - [R](https://github.com/DatioBD/academy/blob/master/languages/r.md)
 - [scala](https://github.com/DatioBD/academy/blob/master/languages/scala.md)
