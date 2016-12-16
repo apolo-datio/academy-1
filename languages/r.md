@@ -13,11 +13,11 @@
 - [StatET](http://www.walware.de/goto/statet)
 
 ## MOOC
-- [R Programming](https://www.coursera.org/learn/r-programming)
-- [The R Programming Environment](https://www.coursera.org/learn/r-programming-environment)
-- [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
-- [Try R](http://tryr.codeschool.com)
-- [Learn R, in R](http://swirlstats.com)
+- [R Programming](https://www.coursera.org/learn/r-programming): curso basico de programacion en R, impartido por coursera, que se centra en las bases del lenguaje. :star:
+- [The R Programming Environment](https://www.coursera.org/learn/r-programming-environment): curso centrado en el lenguaje r, también de cousera.
+- [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r): curso gratuito que se centra en las bases del lenguaje R, impartido por datacamp.
+- [Try R](http://tryr.codeschool.com): tutorial interactivo para aprender R. 
+- [Learn R, in R](http://swirlstats.com): otro tutorial interactivo para aprender R. 
 
 ## Blogs
 - [R-bloggers](https://www.r-bloggers.com)
