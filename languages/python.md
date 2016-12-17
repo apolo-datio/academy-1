@@ -26,7 +26,7 @@
 - [Python Weekly](http://www.pythonweekly.com)
 
 ## Documentación 
-- [Datio-Python](https://github.com/DatioBD/academy/tree/master/courses/python)
+- [Datio-Python](https://github.com/DatioBD/academy/tree/master/courses/python) :star:
 - [Tutorial de Python (y Django!) en Español](http://tutorial.python.org.ar/)
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Python Practice Book: free ebook to learn practical programming with Python](http://anandology.com/python-practice-book/index.html)
