@@ -10,7 +10,7 @@
 * Matplotlib
 * Bokeh
 
-Para visualizar los notebooks, acceder a http://nbviewer.jupyter.org/github/datiobd/academy/tree/master/courses/python/notebooks_completos
+Para visualizar los notebooks, acceder a http://nbviewer.jupyter.org/github/DatioBD/academy/tree/master/courses/python/notebooks_completos
 
 
 Basado en [Curso AeroPython](https://github.com/AeroPython/Curso_AeroPython), por [Juan Luis Cano](http://es.linkedin.com/in/juanluiscanor) y [Alejandro Sáez](https://www.linkedin.com/in/alejandrosaezm)
