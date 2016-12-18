@@ -28,10 +28,11 @@ para llevar a cabo la preparación y limpieza de los datos previos al análisis.
 ## Docs
 - [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
 - [Practical Data Science Cookbook](http://shop.oreilly.com/product/9781783980246.do)
+- [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/ref=sr_1_3?s=books&ie=UTF8&qid=1458240009&sr=1-3&keywords=data+science+from+scratch)
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do)
 - [Deep Learning. A Practitioner's Approach](http://shop.oreilly.com/product/0636920035343.do)
 - [Machine Learning for Hackers](http://shop.oreilly.com/product/0636920018483.do)
 - [Doing Data Science](http://shop.oreilly.com/product/0636920028529.do)
 - [Machine Learning with Python (free)](https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms/?utm_source=kdnuggets&utm_medium=referral&utm_campaign=freeebook)
 - [Practical Data Analysis (free)](https://www.packtpub.com/packt/free-ebook/practical-data-analysis/?utm_source=kdnuggets&utm_medium=referral&utm_campaign=freeebook)
-
+- [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
