@@ -23,7 +23,8 @@
 
 ## Docs
 - [Apache Spark Documentation](http://spark.apache.org/documentation.html)
-- [Learning Spark](http://shop.oreilly.com/product/0636920028512.do)
+- [Learning Spark](http://shop.oreilly.com/product/0636920028512.do) :star:
+- [Mastering Apache Spark 2.0](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details) :star:
 - [High Performance Spark](http://shop.oreilly.com/product/0636920046967.do)
 - [Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do)
 - [Using R for Big Data with Spark](http://shop.oreilly.com/product/0636920056621.do)
