@@ -20,7 +20,9 @@
 - [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning): Introducción a los conceptos básicos que hacen falta
 para llevar a cabo la preparación y limpieza de los datos previos al análisis.
 - [Graph Analytics with GraphX](http://ampcamp.berkeley.edu/big-data-mini-course/graph-analytics-with-graphx.html): Breve tutorial de la universidad de berkeley que muestra el uso de GraphX para realizar analíticas sobre los datos usando un modelo basado en grafos.
-- [Deep Learning with TensorFlow](https://bigdatauniversity.com/courses/deep-learning-tensorflow/): Curso impartido big data university donde explican a nivel introductorio el uso de tensor flow.
+- [Exploring Spark’s GraphX](https://bigdatauniversity.com/courses/spark-graphx/): Curso impartido por bigdatauniversity centrado en una introduccion a GraphX.
+- [Deep Learning with TensorFlow](https://bigdatauniversity.com/courses/deep-learning-tensorflow/): Curso impartido por bigdatauniversity donde explican a nivel introductorio el uso de tensor flow.
+- [Spark MLlib](https://bigdatauniversity.com/courses/spark-mllib/): Curso impartido por bigdatauniversity centrado en una introduccion a Apache Spark MLib.
 - [Statistical Learning](http://online.stanford.edu/course/statistical-learning-self-paced): Curso impartido por la universidad de Standford centrado en estadísticas y data science.
 
 ## Blogs
