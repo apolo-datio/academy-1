@@ -23,7 +23,7 @@
 
 ## Tecnología    
 ### [Docker](https://github.com/docker/labs)
-### [DCOS](https://dcos.io/docs/1.8/usage/tutorials/dcos-101/)
+### [DCOS](https://github.com/DatioBD/academy/blob/master/tech/dcos.md)
 ### [Apache Spark](https://github.com/DatioBD/academy/blob/master/tech/spark.md)
 ### [Machine Learning](https://github.com/DatioBD/academy/blob/master/tech/machinelearning.md)
 ### Lenguajes
