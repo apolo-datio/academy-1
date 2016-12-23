@@ -12,6 +12,7 @@
 * Tecnología
   - Devops
     - [Docker](#docker)
+    - [DCOS](#dcos)
   - Big Data
     - Procesamiento Batch
       - [Apache Spark](#apache-spark)
@@ -22,6 +23,7 @@
 
 ## Tecnología    
 ### [Docker](https://github.com/docker/labs)
+### [DCOS](https://dcos.io/docs/1.8/usage/tutorials/dcos-101/)
 ### [Apache Spark](https://github.com/DatioBD/academy/blob/master/tech/spark.md)
 ### [Machine Learning](https://github.com/DatioBD/academy/blob/master/tech/machinelearning.md)
 ### Lenguajes
