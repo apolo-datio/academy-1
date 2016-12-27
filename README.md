@@ -34,4 +34,4 @@
 - [scala](https://github.com/DatioBD/academy/blob/master/languages/scala.md)
 
 ### NoSQL
-- [Cassandra](https://github.com/DatioBD/academy/blob/master/languages/python.md)
+- [Cassandra](https://github.com/DatioBD/academy/blob/master/nosql/cassandra.md)
