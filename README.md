@@ -32,5 +32,6 @@
 - [Python](https://github.com/DatioBD/academy/blob/master/languages/python.md)
 - [R](https://github.com/DatioBD/academy/blob/master/languages/r.md)
 - [scala](https://github.com/DatioBD/academy/blob/master/languages/scala.md)
+
 ### NoSQL
 - [Cassandra](https://github.com/DatioBD/academy/blob/master/languages/python.md)
