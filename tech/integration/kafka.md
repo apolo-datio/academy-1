@@ -17,4 +17,4 @@
 - [Kafka: The Definitive Guide](http://shop.oreilly.com/product/0636920044123.do):star:
 - [Learning Apache Kafka, 2nd Edition](http://shop.oreilly.com/product/9781784393090.do):star:
 - [Apache Kafka Cookbook](http://shop.oreilly.com/product/9781785882449.do)
-- [Kafka datio](): tutorial basico para introducir la tecnologa de apache kafka :star:
+- [Kafka datio](https://github.com/DatioBD/academy/blob/master/courses/kafka.md): tutorial basico para introducir la tecnologa de apache kafka :star:
