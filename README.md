@@ -39,4 +39,4 @@
 - [Cassandra](https://github.com/DatioBD/academy/blob/master/tech/nosql/cassandra.md)
 
 ### Data Integration
-- [Kafka](https://github.com/DatioBD/academy/blob/master/nosql/cassandra.md)
+- [Kafka](https://github.com/DatioBD/academy/blob/master/tech/integration/kafka.md)
