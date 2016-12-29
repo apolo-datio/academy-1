@@ -5,6 +5,7 @@ Docker compose file to manage kafka, hadoop and zookeeper together in the templa
 hadoop : sequenceiq <br/>
 kafka : wurstmeister <br/>
 zookeeper : wurstmeister <br/>
+mongodb : mongodb <br/>
 # Pre-requisites
 - install docker [https://docs.docker.com/engine/installation/](https://docs.docker.com/engine/installation/)
 - install docker-compose [https://docs.docker.com/compose/install/](https://docs.docker.com/compose/install/)
