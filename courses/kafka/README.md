@@ -1,4 +1,4 @@
-#Hadoop 2.7.1 + Kafka 0.10 + zookeeper 3.4.6 Docker
+#Hadoop 2.7.1 + Kafka 0.10 + zookeeper 3.4.6 + Mongodb (latest) Docker
 
 Docker compose file to manage kafka, hadoop and zookeeper together in the template project <br/>
 ###### image sources: ######
