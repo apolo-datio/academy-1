@@ -3,10 +3,10 @@
 	<br>
 </h1>
 ## Contenido
-* [IDEs](#ides): Entornos de desarrollo recomendados
-* [MOOC](#mooc): Tutoriales/cursos online recomendados
-* [Blogs](#blogs): Websites/blogs con artículos relevantes
-* [Documentación](#documentacion): Libros y material complementario a la formación
+* [IDEs](#ides): Featured environments
+* [MOOC](#mooc): Tutorials / On line courses
+* [Blogs](#blogs): Featured Websites/blogs 
+* [Documentation](#documentacion): Books and complementary learning resources
 
 ## IDEs
 - [PyCharm](https://www.jetbrains.com/pycharm/) :star:
@@ -15,10 +15,10 @@
 - [PyDev](http://www.pydev.org/)
 
 ## MOOC
-- [Learn to Program Using Python](https://www.edx.org/course/learn-program-using-python-utarlingtonx-cse1309x): Curso de edx, centrado en las bases de programacion del lenguaje python.
-- [Learn to Program and Analyze Data with Python](https://www.coursera.org/specializations/python): Curso impartido por la universidad de michigan a través de coursera que se centra en mostrar como desarrollar programas para limpiar, analizar, tratar y visualizar los datos. :star:
-- [Introduction to python](https://www.codecademy.com/learn/python): Introduccion a los conceptos basicos de la programacion en python.
-- [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python): Serie de 5 cursos de cousera impartidos por la universidad de michigan, donde se abordan métodos de aprendizaje por medio del lenguaje de programacion python. :star:
+- [Learn to Program Using Python](https://www.edx.org/course/learn-program-using-python-utarlingtonx-cse1309x): Edx course, focused in Python principles.
+- [Learn to Program and Analyze Data with Python](https://www.coursera.org/specializations/python): This Specialization created by the university of Michigan builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. :star:
+- [Introduction to python](https://www.codecademy.com/learn/python): Introduction to the basics concepts of Python programming.
+- [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python): The 5 courses in this University of Michigan specialization introduce learners to data science through the python programming language.  :star:
 - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9): Curso impartido por el MIT en EDX, centrado en la ciencia de datos por medio de python. :star:
 - [Checkio](https://py.checkio.org/): Curso interactivo de programacion en python, que consiste en avanzar a través de los distintos niveles de un juego, resolviendo algoritmos mediante el lenguaje python.
 
