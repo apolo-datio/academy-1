@@ -14,7 +14,7 @@
     - [Docker](#docker)
     - [DCOS](#dcos)
   - Big Data
-    - Procesamiento Batch
+    - Batch Process
       - [Apache Spark](#apache-spark)
   - Data Science
     - [Machine Learning](#machine-learning)
