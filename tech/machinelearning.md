@@ -4,26 +4,26 @@
 	<br>
 </h1>
 ## Contenido
-* [MOOC](#mooc): Tutoriales/cursos online recomendados
-* [Blogs](#blogs): Websites/blogs con artículos relevantes
-* [Docs](#docs): Libros y material complementario a la formación
+* [MOOC](#mooc): Tutorials / Featured online courses
+* [Blogs](#blogs): Websites / Blogs
+* [Docs](#docs): Books and learning complementary resources
 
 ## MOOC
-- [Machine Learning, Stanford University](https://www.coursera.org/learn/machine-learning): Introducción a machine learning, datamining, and statistical pattern recognition. Impartido por Andrew Ng (universidad de standford). Coursera :star:
-- [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools): Curso de coursera compuesto por dos partes: 
-  - Principios básicos de la gestión del conocimiento a partir de los datos.
-  - Introducción a herramientas del data scientist: version control, markdown,
-	git, github, R y RStudio
-- [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python): Serie de 5 cursos de cousera impartidos por la universidad de michigan, donde se abordan métodos de aprendizaje por medio del lenguaje de programacion python. :star:
-- [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9): Curso impartido por el MIT en EDX, centrado en la ciencia de datos por medio de python. :star:
-- [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm): Conjunto de cursos ofrecidos por EDX (berkeley) enfocados a mostrar el uso de spark como herramienta para el análisis de datos. :star:
-- [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning): Introducción a los conceptos básicos que hacen falta
-para llevar a cabo la preparación y limpieza de los datos previos al análisis.
-- [Graph Analytics with GraphX](http://ampcamp.berkeley.edu/big-data-mini-course/graph-analytics-with-graphx.html): Breve tutorial de la universidad de berkeley que muestra el uso de GraphX para realizar analíticas sobre los datos usando un modelo basado en grafos.
-- [Exploring Spark’s GraphX](https://bigdatauniversity.com/courses/spark-graphx/): Curso impartido por bigdatauniversity centrado en una introduccion a GraphX.
-- [Deep Learning with TensorFlow](https://bigdatauniversity.com/courses/deep-learning-tensorflow/): Curso impartido por bigdatauniversity donde explican a nivel introductorio el uso de tensor flow.
-- [Spark MLlib](https://bigdatauniversity.com/courses/spark-mllib/): Curso impartido por bigdatauniversity centrado en una introduccion a Apache Spark MLib.
-- [Statistical Learning](http://online.stanford.edu/course/statistical-learning-self-paced): Curso impartido por la universidad de Standford centrado en estadísticas y data science.
+- [Machine Learning, Stanford University](https://www.coursera.org/learn/machine-learning): Introduction to machine learning, datamining, and statistical pattern recognition. By Andrew Ng (University of Standford). Coursera :star:
+- [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools): Course composed by two parts: 
+  - Basics principles of knowledge management from data.
+  - Introduction to data scientist tools: version control, markdown, git, github, R y RStudio
+- [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python): The 5 courses in this University of Michigan specialization introduce learners to data science through the Python programming language. :star:
+- [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9): Course taught by MIT in EDX, focused on data science through Python. :star:
+- [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm): 
+Set of courses offered by EDX (Berkeley) focused on showing the use of Spark as a tool for data analysis. :star:
+- [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning): This course will cover the basics of data cleaning and how to make data “tidy”. It will also cover the components of a complete data set including raw data, processing instructions, codebooks, and processed data. 
+- [Graph Analytics with GraphX](http://ampcamp.berkeley.edu/big-data-mini-course/graph-analytics-with-graphx.html): 
+A brief tutorial from Berkeley University showing the use of GraphX to perform data analytics using a graph-based model.
+- [Exploring Spark’s GraphX](https://bigdatauniversity.com/courses/spark-graphx/): In this course, you will learn about Spark GraphX components and the background of graph-parallel operations. You will get to explore how to visualize your data using various graph operators. 
+- [Deep Learning with TensorFlow](https://bigdatauniversity.com/courses/deep-learning-tensorflow/): A bigdatauniversity course which explains at an introductory level the use of tensor flow.
+- [Spark MLlib](https://bigdatauniversity.com/courses/spark-mllib/): This course will start you off on your journey and walk you through some of the machine learning libraries and how to use them. 
+- [Statistical Learning](http://online.stanford.edu/course/statistical-learning-self-paced): This is an introductory-level course in supervised learning, with a focus on regression and classification methods. By the University of Standford.
 
 ## Blogs
 - [Data Science Central](http://www.datasciencecentral.com/)
