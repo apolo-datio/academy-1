@@ -1,15 +1,15 @@
-# Plan Formación Datio
+# Datio: Practical Learning Resources
 
-## Contenido
+## Contents
 
-* Infraestructura
+* Infraestructure
   * PaaS
-* Herramientas
+* Tools
   * Intelligence
   * Sandbox
   * Crossdata
   * Viewer
-* Tecnología
+* Technology
   - Devops
     - [Docker](#docker)
     - [DCOS](#dcos)
@@ -18,19 +18,19 @@
       - [Apache Spark](#apache-spark)
   - Data Science
     - [Machine Learning](#machine-learning)
-  - [Lenguajes](#lenguajes)
+  - [Languages](#languages)
   - [NoSQL](#nosql)
     - [Cassandra](#cassandra)
   - [Data Integration](#dataintegration)
     - [Kafka](#kafka)
-* Metodología 
+* Methodology 
 
-## Tecnología    
+## Technology    
 ### [Docker](https://github.com/docker/labs)
 ### [DCOS](https://github.com/DatioBD/academy/blob/master/tech/dcos.md)
 ### [Apache Spark](https://github.com/DatioBD/academy/blob/master/tech/spark.md)
 ### [Machine Learning](https://github.com/DatioBD/academy/blob/master/tech/machinelearning.md)
-### Lenguajes
+### Languages
 - [Python](https://github.com/DatioBD/academy/blob/master/languages/python.md)
 - [R](https://github.com/DatioBD/academy/blob/master/languages/r.md)
 - [scala](https://github.com/DatioBD/academy/blob/master/languages/scala.md)
