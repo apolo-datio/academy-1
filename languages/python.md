@@ -3,9 +3,9 @@
 	<br>
 </h1>
 ## Contents
-* [IDEs](#ides): Featured environments
+* [IDEs](#ides): Recommended development environments
 * [MOOC](#mooc): Tutorials / On line courses
-* [Blogs](#blogs): Featured Websites/blogs 
+* [Blogs](#blogs): Websites / Blogs 
 * [Documentation](#documentation): Books and complementary learning resources
 
 ## IDEs
