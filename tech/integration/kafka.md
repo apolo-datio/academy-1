@@ -11,7 +11,7 @@
 - [Eclipse](http://scala-ide.org/)
 
 ## Blogs
-- [confluent](https://www.confluent.io/blog/)
+- [Confluent](https://www.confluent.io/blog/)
 
 ## Docs
 - [Kafka tutorial](https://kafka.apache.org/quickstart): Basic tutorial to begin to learn the Apache Kafka technology. :star:
