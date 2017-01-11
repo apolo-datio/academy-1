@@ -2,22 +2,22 @@
 	<img src="https://www.r-project.org/Rlogo.png" alt="r">
 	<br>
 </h1>
-## Contenido
-* [IDEs](#ides): Entornos de desarrollo recomendados
-* [MOOC](#mooc): Tutoriales/cursos online recomendados
-* [Blogs](#blogs): Websites/blogs con artículos relevantes
-* [Docs](#docs): Libros y material complementario a la formación
+## Contents
+* [IDEs](#ides): Recommended development environments
+* [MOOC](#mooc): Tutorials / Online courses
+* [Blogs](#blogs): Websites / Blogs
+* [Docs](#docs): Books and complementary learning resources
 
 ## IDEs
 - [RStudio](https://www.rstudio.com/) :star:
 - [StatET](http://www.walware.de/goto/statet)
 
 ## MOOC
-- [R Programming](https://www.coursera.org/learn/r-programming): curso basico de programacion en R, impartido por coursera, que se centra en las bases del lenguaje. :star:
-- [The R Programming Environment](https://www.coursera.org/learn/r-programming-environment): curso centrado en el lenguaje r, también de cousera.
-- [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r): curso gratuito que se centra en las bases del lenguaje R, impartido por datacamp.
-- [Try R](http://tryr.codeschool.com): tutorial interactivo para aprender R. 
-- [Learn R, in R](http://swirlstats.com): otro tutorial interactivo para aprender R. 
+- [R Programming](https://www.coursera.org/learn/r-programming): In this course you will learn how to program in R and how to use R for effective data analysis. :star:
+- [The R Programming Environment](https://www.coursera.org/learn/r-programming-environment): This course provides a rigorous introduction to the R programming language, with a  particular focus on using R for software development in a data science setting. 
+- [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r): A free course of Datacamp of introduction to R. Master the basics of this open source language, including factors, lists and data frames. With the knowledge gained in this course, you will be ready to undertake your first very own data analysis.
+- [Try R](http://tryr.codeschool.com): An interactive tutorial to learn R. 
+- [Learn R, in R](http://swirlstats.com): Interactive tutorial. 
 
 ## Blogs
 - [R-bloggers](https://www.r-bloggers.com)
