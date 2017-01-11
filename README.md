@@ -1,4 +1,4 @@
-# Datio: Practical Learning Resources
+# Datio: Self-Training Resources
 
 ## Contents
 
