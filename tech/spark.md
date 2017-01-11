@@ -2,17 +2,17 @@
 	<img src="http://spark.apache.org/images/spark-logo-trademark.png" alt="spark">
 	<br>
 </h1>
-## Contenido
-* [MOOC](#mooc): Tutoriales/cursos online recomendados
-* [Blogs](#blogs): Websites/blogs con artículos relevantes
-* [Docs](#docs): Libros y material complementario a la formación
+## Contents
+* [MOOC](#mooc): Tutorials / Featured online courses
+* [Blogs](#blogs): Websites / Blogs
+* [Docs](#docs): Books and complementary learning resources
 
 ## MOOC
-- [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm): Conjunto de cursos ofrecidos por EDX (berkeley) enfocados a mostrar el uso de spark como herramienta para el análisis de datos. :star:
-- [Apache Spark Essentials](http://learn.mapr.com/dev-360-apache-spark-essentials): Curso de mapr centrado en introducir las bases de apache spark
-- [Build and Monitor Apache Spark Applications](http://learn.mapr.com/dev-361-build-and-monitor-apache-spark-applications): Curso de mapr que describe los distintos usos de cargar datos en data frames. También hace referencia al uso de spark web para monitorizar aplicaciones spark.
-- [Create Data Pipelines Using Apache Spark](http://learn.mapr.com/dev-362-create-data-pipelines-using-apache-spark): Curso de mapr donde se introduce como construir un pipeline de datos por medio de spark streaming, spark sql, graphx y mlib. :star:
-- [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/big-data-analysys): Curso de coursera donde muestra como realizar análisis de datos con scala y spark. :star:
+- [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm): Set of courses offered by EDX (Berkeley) focused on showing the use of the Spark as a tool for data analysis. :star:
+- [Apache Spark Essentials](http://learn.mapr.com/dev-360-apache-spark-essentials): Mapr course that introduces the Apache Spark principles.
+- [Build and Monitor Apache Spark Applications](http://learn.mapr.com/dev-361-build-and-monitor-apache-spark-applications): Mapr course that describes the different uses of loading data in data frames. It also refers the use of Spark web for monitoring Spark applications.
+- [Create Data Pipelines Using Apache Spark](http://learn.mapr.com/dev-362-create-data-pipelines-using-apache-spark): Mapr course that introduces how to construct a data pipeline by means of Spark streaming, Spark sql, graphx and mlib. :star:
+- [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/big-data-analysys): In this course, we'll see how the data parallel paradigm can be extended to the distributed case, using Spark throughout. We'll cover Spark's programming model in detail, being careful to understand how and when it differs from familiar programming models, like shared-memory parallel collections or sequential Scala collections. :star:
 
 ## Blogs
 - [Databricks](https://databricks.com/blog)
