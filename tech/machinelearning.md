@@ -11,6 +11,7 @@
 ## MOOC
 - [Machine Learning, Stanford University](https://www.coursera.org/learn/machine-learning): Introduction to machine learning, datamining, and statistical pattern recognition. By Andrew Ng (University of Standford). Coursera :star:
 - [Deep Learning from Scratch Course](https://github.com/DataScienceUB/DeepLearningfromScratch): Introduction to deep learning organized by the University of Barcelona :star:
+- [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations9): Introduction to machine learning with python :star:
 - [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools): Course composed by two parts: 
   - Basics principles of knowledge management from data.
   - Introduction to data scientist tools: version control, markdown, git, github, R y RStudio
