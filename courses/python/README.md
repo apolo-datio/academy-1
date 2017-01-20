@@ -1,6 +1,6 @@
 # Python Course
 
-<img src="./static/logo.png" alt="datio" align="center" style="width: 300px;"/>
+<img src="./static/logo.png" alt="datio" align="center" style="width: 200px;"/>
 
 ## Contents
 * Welcome 
