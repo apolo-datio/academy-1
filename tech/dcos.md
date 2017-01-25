@@ -9,6 +9,7 @@
 
 ## MOOC
 - [DC/OS 101](https://dcos.io/docs/1.8/usage/tutorials/dcos-101/): Tutorial. :star:
+- [Mesos](https://open.mesosphere.com/advanced-course/): Tutorial. :star:
 
 ## Blogs
 - [DC/OS](https://dcos.io/blog/)
