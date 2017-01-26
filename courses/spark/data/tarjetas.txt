@@ -1,0 +1,5 @@
+70000000,Francisco Arias Sanchez,Visa,1200120012001200
+50000000,Norberto Marias Quintana,Visa,1001100110011001
+10000000,Julio Cortazar Carter,Master Card,2003200320032003
+20000000,Arturo Belano Yañez,American Express,9008900890089008
+20000000,Arturo Belano Yañez,American Express,1111222233334444
