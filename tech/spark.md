@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="http://spark.apache.org/images/spark-logo-trademark.png" alt="spark" style=\"width: 200px \"align=\"center\"/>>
+	<img src="http://spark.apache.org/images/spark-logo-trademark.png" alt="spark" style=\"width: 200px \"align=\"center\"/>
 	<br>
 </h1>
 ## Contents
