@@ -1,0 +1,10 @@
+El camino,6,20
+Rayuela,2,25
+Soldados de Salamina,1,23
+El impostor,1,22
+Historias de Cronopios y Famas,2,23
+Las máscaras del heroe,3,26
+Mi idolatrado hijo Sisi,6,18
+El disputado voto del señor Cayo,6,15
+
+
