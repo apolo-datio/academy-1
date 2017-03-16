@@ -2,11 +2,12 @@
 	<img src="https://www.r-project.org/Rlogo.png" alt="r">
 	<br>
 </h1>
+
 ## Contents
-* [IDEs](#ides): Recommended development environments
-* [MOOC](#mooc): Tutorials / Online courses
-* [Blogs](#blogs): Websites / Blogs
-* [Docs](#docs): Books and complementary learning resources
+- [IDEs](#ides): Recommended development environments
+- [MOOC](#mooc): Tutorials / Online courses
+- [Blogs](#blogs): Websites / Blogs
+- [Docs](#docs): Books and complementary learning resources
 
 ## IDEs
 - [RStudio](https://www.rstudio.com/) :star:
