@@ -2,9 +2,10 @@
 	<img src="https://kafka.apache.org/images/logo.png" alt="kafka">
 	<br>
 </h1>
+
 ## Contents
-* [Blogs](#blogs): Websites / Blogs
-* [Docs](#docs): Books and complementary learning resources
+- [Blogs](#blogs): Websites / Blogs
+- [Docs](#docs): Books and complementary learning resources
 
 ## IDEs
 - [IntelliJ](https://www.jetbrains.com/idea/) :star:
