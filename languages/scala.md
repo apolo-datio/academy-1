@@ -2,11 +2,12 @@
 	<img src="https://turreta.com/wp-content/uploads/2016/02/scala-logo-202x175.jpeg" alt="r">
 	<br>
 </h1>
+
 ## Contents
-* [IDEs](#ides): Recommended development environments
-* [MOOC](#mooc): Tutorials / Online courses
-* [Blogs](#blogs): Websites / Blogs
-* [Docs](#docs): Books and complementary learning resources
+- [IDEs](#ides): Recommended development environments
+- [MOOC](#mooc): Tutorials / Online courses
+- [Blogs](#blogs): Websites / Blogs
+- [Docs](#docs): Books and complementary learning resources
 
 ## IDEs
 - [IntelliJ](https://www.jetbrains.com/idea/) :star:
