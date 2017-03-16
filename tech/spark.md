@@ -2,10 +2,11 @@
 	<img src="http://spark.apache.org/images/spark-logo-trademark.png" alt="spark" style=\"width: 100px \"align=\"center\"/>
 	<br>
 </h1>
+
 ## Contents
-* [MOOC](#mooc): Tutorials / Featured online courses
-* [Blogs](#blogs): Websites / Blogs
-* [Docs](#docs): Books and complementary learning resources
+- [MOOC](#mooc): Tutorials / Featured online courses
+- [Blogs](#blogs): Websites / Blogs
+- [Docs](#docs): Books and complementary learning resources
 
 ## MOOC
 - [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm): Set of courses offered by EDX (Berkeley) focused on showing the use of the Spark as a tool for data analysis. :star:
