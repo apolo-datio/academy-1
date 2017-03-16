@@ -2,7 +2,7 @@
 	<img src="https://www.python.org/static/img/python-logo@2x.png" alt="python">
 	<br>
 </h1>
-## Contents
+## Contents 
 * [IDEs](#ides): Recommended development environments
 * [MOOC](#mooc): Tutorials / Online courses
 * [Blogs](#blogs): Websites / Blogs 
