@@ -4,9 +4,9 @@
 	<br>
 </h1>
 ## Contents
-* [MOOC](#mooc): Tutorials / Featured online courses
-* [Blogs](#blogs): Websites / Blogs
-* [Docs](#docs): Books and learning complementary resources
+- [MOOC](#mooc): Tutorials / Featured online courses
+- [Blogs](#blogs): Websites / Blogs
+- [Docs](#docs): Books and learning complementary resources
 
 ## MOOC
 - [Machine Learning, Stanford University](https://www.coursera.org/learn/machine-learning): Introduction to machine learning, datamining, and statistical pattern recognition. By Andrew Ng (University of Standford). Coursera :star:
