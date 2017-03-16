@@ -3,10 +3,10 @@
 	<br>
 </h1>
 ## Contents 
-* [IDEs](#ides): Recommended development environments
-* [MOOC](#mooc): Tutorials / Online courses
-* [Blogs](#blogs): Websites / Blogs 
-* [Documentation](#documentation): Books and complementary learning resources
+[IDEs](#ides): Recommended development environments
+[MOOC](#mooc): Tutorials / Online courses
+[Blogs](#blogs): Websites / Blogs 
+[Documentation](#documentation): Books and complementary learning resources
 
 ## IDEs
 - [PyCharm](https://www.jetbrains.com/pycharm/) :star:
