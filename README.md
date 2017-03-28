@@ -14,6 +14,7 @@
     - [Docker](#docker)
     - [DCOS](#dcos)
     - [Ansible](#ansible)
+    - [Terraform](#terraform)
   - Big Data
     - Batch Process
       - [Apache Spark](#apache-spark)
@@ -30,6 +31,7 @@
 ### [Docker](https://github.com/docker/labs)
 ### [DCOS](https://github.com/DatioBD/academy/blob/master/tech/dcos.md)
 ### [Ansible](https://github.com/DatioBD/academy/blob/master/tech/ansible.md)
+### [Terraform](https://github.com/DatioBD/academy/blob/master/tech/ansible.md)
 ### [Apache Spark](https://github.com/DatioBD/academy/blob/master/tech/spark.md)
 ### [Machine Learning](https://github.com/DatioBD/academy/blob/master/tech/machinelearning.md)
 ### Languages
