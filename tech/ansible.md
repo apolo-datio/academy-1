@@ -10,6 +10,7 @@
 
 ## MOOC
 - [Webinars](https://www.ansible.com/webinars-training): Webinars. :star:
+- [Examples and best practices](https://github.com/ansible/ansible-examples): Examples and best practices :star:
 - [Using Ansible for Configuration Management and Deployments](https://linuxacademy.com/devops/training/course/name/using-ansible-for-configuration-management-and-deployments): Ansible Course.
 - [Ansible Tutorial](https://codereviewvideos.com/course/ansible-tutorial): Ansible Tutorial
 
