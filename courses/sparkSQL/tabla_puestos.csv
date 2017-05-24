@@ -1,0 +1,13 @@
+tipo_puesto:tipo_puesto_def
+GP:Gestor_pymes
+AF:Asesor_Financiero
+GD:Gestor_Directo
+AFR:Asesor_Financiero_Remoto
+DO3:Asesor_Financiero_Remoto 3
+DC:Director_Comercial
+AP:Asesor_Patrimonial
+DO3:Asesor_Financiero_Remoto 2
+DGR:Director_General_Remoto
+DCBC:Director_de_CBC
+DO:Drector_Oficina
+APR:Asesor_Financiero_Remoto
