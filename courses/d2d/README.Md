@@ -1,6 +1,6 @@
 # Enlaces importantes: 
 
-* chuletario github, rellenar lo que veais: 
+* chuletario githubs: 
 https://datiobd.atlassian.net/wiki/spaces/INNO/pages/88026172/Github
 
 * REPO:
