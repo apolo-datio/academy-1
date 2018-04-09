@@ -1,0 +1,9 @@
+1. Install java
+2. Download .tgz from Apache Spark official site [last version is recommended]
+3. Set environment variables: $SPARK_HOME and add the bin directory to .bashrc
+4. In case you're going to use Python API:
+	1. Check Python is installed (Python3 is recommended)
+	2. To write Spark Apps in python: Install pyspark module (pip install pyspark)
+* To open spark-shell through Python API:
+	- Python3 -> Create a VirtualEnvironment -> activate it (source entorno_name/bin/activate) -> execute pyspark (points to SPARK_HOME/bin)
+	- Python2.7 -> Execute directly pyspark (points to SPARK_HOME/bin)

@@ -1,0 +1,5 @@
+INTRODUCTORY EXERCISE TO SPARK WORKFLOW AND ENVIRONMENT
+
+- PART 1: Count number of restaurants movements greater than 10,000€
+
+- PART 2: Collect the top 6 people who have spent more than 6,000€ in restaurants
