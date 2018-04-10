@@ -17,18 +17,6 @@ Then, the output of the program should be:
 In case of input data being supplied to the question, it should be assumed to be a console input.
 We use itemgetter to enable multiple sort keys.
 
-## Solutions:
-from operator import itemgetter, attrgetter
-
-l = []
-while True:
-    s = raw_input()
-    if not s:
-        break
-    l.append(tuple(s.split(",")))
-
-print sorted(l, key=itemgetter(0,1,2))
-
 # Question 2
 A robot moves in a plane starting from the original point (0,0). The robot can move toward UP, DOWN, LEFT and RIGHT with a given steps. The trace of robot movement is shown as the following:
 UP 5
@@ -49,29 +37,6 @@ Then, the output of the program should be:
 ## Hints:
 In case of input data being supplied to the question, it should be assumed to be a console input.
 
-## Solution:
-import math
-pos = [0,0]
-while True:
-    s = raw_input()
-    if not s:
-        break
-    movement = s.split(" ")
-    direction = movement[0]
-    steps = int(movement[1])
-    if direction=="UP":
-        pos[0]+=steps
-    elif direction=="DOWN":
-        pos[0]-=steps
-    elif direction=="LEFT":
-        pos[1]-=steps
-    elif direction=="RIGHT":
-        pos[1]+=steps
-    else:
-        pass
-
-print int(round(math.sqrt(pos[1]**2+pos[0]**2)))
-
 # Question 3
 Write a program to compute the frequency of the words from the input. The output should output after sorting the key alphanumerically. 
 Suppose the following input is supplied to the program:
@@ -91,15 +56,3 @@ to:1
 
 ## Hints
 In case of input data being supplied to the question, it should be assumed to be a console input.
-
-## Solution:
-freq = {}   # frequency of words in text
-line = raw_input()
-for word in line.split():
-    freq[word] = freq.get(word,0)+1
-
-words = freq.keys()
-words.sort()
-
-for w in words:
-    print "%s:%d" % (w,freq[w])
