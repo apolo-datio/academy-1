@@ -10,4 +10,4 @@ The structure used consists of three ready-to-use sub-paths:
 * ***language*-notebooks**
 * ***language*-exercises**
 
-In order to be able to work at DATIO Platform, it will be easier if you install the Ubuntu machine we provide at **./VM-installation**
+In order to be able to work at DATIO Platform, it will be easier if you install the Ubuntu machine we provide at **VM-installation**
