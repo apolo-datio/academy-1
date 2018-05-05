@@ -1,4 +1,1 @@
-En este directorio encontrarás un notebook llamado **VirtualBoxDATIO_ingestas** que deberás leer para empezar a ingestar en la plataforma DATIO.
-# Acceso a usuario academy dentro de la máquina formacion_ingestas
-**usr: academy**  
-**pwd: academy**
+In this path we provide an **VirtualBoxDATIO_ingestas** **Installation Guide** to  install the customized Ubuntu virtual machine, so that you can get started with the DATIO Platform ingestion pieces.
