@@ -1,4 +1,4 @@
-In this path we provide an **VirtualBoxDATIO_ingestas** **Installation Guide** to  install the customized Ubuntu virtual machine, so that you can get started with the DATIO Platform ingestion pieces.
+In this path we provide a **ingestas_machine_******** **installation guide** to  install the customized Ubuntu virtual machine, so that you can get started with the DATIO Platform ingestion pieces.
 
 You have two ways, choose any of them.
  - In the VirtualBox one, you will have to ask your **BBVA software admin** to install it.
