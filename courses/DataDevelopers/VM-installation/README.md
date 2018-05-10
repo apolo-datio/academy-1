@@ -1,1 +1,7 @@
 In this path we provide an **VirtualBoxDATIO_ingestas** **Installation Guide** to  install the customized Ubuntu virtual machine, so that you can get started with the DATIO Platform ingestion pieces.
+
+You have two ways, choose any of them.
+ - In the VirtualBox one, you will have to ask your **BBVA software admin** to install it.
+ - In the VMware one, you will have to download it from the **BBVA Software Center**
+ 
+### In both cases you will need to enable your computer to enable Virtualization (BIOS settings) - For more info ask your BBVA software admin
