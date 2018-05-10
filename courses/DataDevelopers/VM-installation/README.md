@@ -5,3 +5,4 @@ You have two ways, choose any of them.
  - In the VMware one, you will have to download it from the **BBVA Software Center**
  
 ### In both cases you will need to enable your computer to enable Virtualization (BIOS settings) - For more info ask your BBVA software admin
+### We recommend the VirtualBox installation.
