@@ -6,3 +6,4 @@ You have two ways, choose any of them.
  
 ### In both cases you will need to enable your computer to enable Virtualization (BIOS settings) - For more info ask your BBVA software admin
 ### We recommend the VirtualBox installation.
+### CAUTION: For your info, this machine is built with 6GB RAM, if your computer is 4GB RAM, you will not be able to start up the machine. For more info ask your software admin.
